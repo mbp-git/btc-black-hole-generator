@@ -8,6 +8,8 @@
 1BitcoinEaterAddressDontSendzLvKvW
 1BitcoinEaterAddressDontSendsUWhmf
 
+1BitcoinEaterAddressDontBendtB8zF7
+1BitcoinEaterAddressDontBendXfg4yP
 1BitcoinEaterAddressDontBend66qJxq
 1BitcoinEaterAddressDontBendD91L4T
 1BitcoinEaterAddressDontBendEFr9nt
